@@ -20,6 +20,7 @@ permalink: /add-ons/
 * [test-factory](https://github.com/rSmart/TestFactory)
 * [watirmark](https://github.com/convio/watirmark)
 * [watirsome](https://github.com/p0deje/watirsome)
+* [watir_pump](https://github.com/bwilczek/watir_pump)
 
 ### Other
 
